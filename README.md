@@ -4,8 +4,7 @@
 
 **SDK ساده و تمیز برای درگاه پرداخت زرین‌پال — TypeScript / Node.js**
 
-[![npm version](https://img.shields.io/npm/v/zarinpal-js.svg)](https://www.npmjs.com/package/zarinpal-js)
-[![license](https://img.shields.io/npm/l/zarinpal-js.svg)](https://github.com/jnjal/zarinpal-js/blob/main/LICENSE)
+[![license](https://img.shields.io/github/license/jnjal/zarinpal-js.svg)](https://github.com/jnjal/zarinpal-js/blob/main/LICENSE)
 [![typescript](https://img.shields.io/badge/TypeScript-5.5-blue.svg)](https://www.typescriptlang.org/)
 
 ---
@@ -216,14 +215,9 @@ zarinpal-js/
 
 ## 🤝 مشارکت
 
-PRها و Issueها خوش‌آمدید!
-
+-
 ## 📄 لایسنس
 
-MIT
-
----
-
-ساخته شده با ❤️ توسط [jnjal](https://github.com/jnjal)
+[MIT](https://github.com/jnjal/zarinpal-js/blob/main/LICENSE)
 
 </div>
