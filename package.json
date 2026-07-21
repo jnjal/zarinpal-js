@@ -1,0 +1,47 @@
+{
+  "name": "zarinpal-js",
+  "version": "1.0.0",
+  "description": "SDK ساده و تمیز برای درگاه پرداخت زرین‌پال — TypeScript / Node.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "test": "npx tsx --test tests/*.test.ts",
+    "lint": "tsc --noEmit",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "zarinpal",
+    "payment",
+    "iran",
+    "درگاه پرداخت",
+    "زرین پال",
+    "gateway",
+    "pay",
+    "typescript",
+    "sdk"
+  ],
+  "author": "jnjal",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jnjal/zarinpal-js"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.23.1",
+    "typescript": "^5.5.0"
+  }
+}
