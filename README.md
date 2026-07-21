@@ -23,13 +23,10 @@
 ## 📦 نصب
 
 ```bash
-npm install zarinpal-js
-```
-
-یا با yarn:
-
-```bash
-yarn add zarinpal-js
+git clone https://github.com/jnjal/zarinpal-js.git
+cd zarinpal-js
+npm install
+npm run build
 ```
 
 ---
